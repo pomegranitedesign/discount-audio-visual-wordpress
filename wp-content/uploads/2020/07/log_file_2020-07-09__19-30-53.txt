@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Home 18 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/uploads/2020/07/demo-content-import-file_2020-07-09__19-30-53.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+
